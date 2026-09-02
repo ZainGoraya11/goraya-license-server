@@ -1,0 +1,13 @@
+{
+  "ABCD-1234-EFGH": {
+    "status": "active",
+    "activatedAt": "2026-09-02T23:35:27.961Z",
+    "expiresAt": "2026-10-02T23:35:27.961Z",
+    "deviceId": "97c2a2d4-5ba0-4417-a7f6-b46cfd05f407"
+  },
+  "WXYZ-5678-IJKL": {
+    "status": "unused",
+    "activatedAt": null,
+    "expiresAt": null
+  }
+}
